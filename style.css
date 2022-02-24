@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(184, 184, 184);
+    text-align: center;
+}
+
+li{
+    width: 250px;
+    height: 300px;
+    margin: 50px;
+    
+}
+
+.test_image_and_result{
+    background-color: rgb(9, 38, 133);
+    margin-bottom: 50px;
+    margin-top: 10px;
+    color: aliceblue;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 97%;
+    background-color: rgb(238, 46, 56);
+    line-height: 3;
+    text-align: center;
+    border-radius: 10px;
+  }
